@@ -45,3 +45,7 @@ The IOU results would be written in the results.txt.
 ### Questions or Comments
 
 Please direct any questions or comments to me; I am happy to help in any way I can. You can email me directly at 20164228014@stu.suda.edu.cn.
+
+### 李剑备注：
+https://zhuanlan.zhihu.com/p/40307697?utm_source=wechat_session&utm_medium=social&utm_oi=589576447262199808
+图像语义分割-判别特征网络DFN简析
